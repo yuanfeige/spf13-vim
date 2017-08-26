@@ -35,6 +35,7 @@ The easiest way to install spf13-vim is to use our [automatic installer](https:/
 
     curl https://j.mp/spf13-vim3 -L > spf13-vim.sh && sh spf13-vim.sh
 ```
+注意执行过程中需要输入git的账号密码
 
 If you have a bash-compatible shell you can run the script directly:
 ```bash
